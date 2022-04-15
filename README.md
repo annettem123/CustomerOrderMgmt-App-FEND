@@ -32,5 +32,7 @@ As a user, one would like to delete order so that user can cancel order effortle
    Upon close review of requirements, only two models are needed, not three. Therefore, updated ERD and refactored customer model to customer_orders        model.
    Debug "Failure to Start" error.
    Uncertain if product model should include fields "Quantity" and "Total Price" or if SQL quiry generates them and adds count and total to forms. Since    these elements can be added to form through calculation, they are not being added to ERD.
-   Uncertain about decimal data structure for total price and product price; note:  in IntelliJ, use Float as the data structure 
+   Uncertain about decimal data structure for total price and product price; note:  in IntelliJ, use Float as the data structure.
+   Trying to make sense of how to prioritize different steps when different examples do the steps differently.
+   
 6 Presentation
