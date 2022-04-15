@@ -1,16 +1,64 @@
 CustomerOrderMgmt-App-FEND
 
-6 Steps to Completing API:
+Summary of 6 Steps to Completing API Project:
+
+1.    Planning - Github
+
+      1.1 Create 2 repos Name-App-FEND public with ReadMe.Md & Name-App-BEND;
+      
+      1.2 Create 1 Project for Project Mgmt Plan (ToDo,  Development, Testing, Done);
+      
+      1.3 ReadMe:  AppName, App Desc, ERD, User Stories, Wireframes, MVC Design.
+      
+2.   Set Up and Backend 
+
+      2.1 PostgreSQL: Create new database and connect to it; 
+
+      2.2 Terminal:  mkdir Name-App-FEND git clone; mkdir Name-App-BEND git clone;
+
+      2.3 IntelliJ: Create New Project and configure same.  
+
+3.   Testing 
+
+      3.1 Postman: test endpoints;
+
+      3.2 give mgr BEND & FEND completion status;
+
+      3.3 do a mini presentation.
+
+4.   Frontend and Testing
+
+      4.1 Angular:  modules;
+
+      4.2 JUnit.
+
+5.   Finish Up & ReadMe 
+
+      5.1 Finish all programming;
+
+      5.2 Deploy to Heroic;
+
+      5.3 ReadMe: add challenges & what else would be done if there was more time; 
+
+      5.4 Practice presentation skills.
+
+6.   Presentation 
+
+      6.1 ReadMe:  add url to Readme;
+
+      6.2 Present app demo. 
+
+
 
 1. Planning
 
    App Name:  CustomerOrderMgmt-App
+   
    App Description:  This project involves using a REST API for a product database which allows for users to view information and create one product.
-   
-   
-[CustomerOrderMgmt-App-ERD.pdf](https://github.com/annettem123/CustomerOrderMgmt-App-FEND/files/8496850/CustomerOrderMgmt-App-ERD.pdf)
+    
+   [CustomerOrderMgmt-App-ERD.pdf](https://github.com/annettem123/CustomerOrderMgmt-App-FEND/files/8496850/CustomerOrderMgmt-App-ERD.pdf)
 
-CustomerOrderMgmt-App User Stories
+   CustomerOrderMgmt-App User Stories
 
 Minimum Viable Product (MVP)
 
@@ -24,9 +72,22 @@ Silver:
 As a user, one would like to update product so that user can change the price of a product effortlessly.
 As a user, one would like to delete order so that user can cancel order effortlessly.
 
+
 2. Set Up and Backend
+
+   Create a new database called "customerorder"
+
+
+
 3. Testing
+
+
+
 4. Frontend and Testing
+
+
+
+
 5. Finish Up and ReadMe.Md
    Challenges:  
    Upon close review of requirements, only two models are needed, not three. Therefore, updated ERD and refactored customer model to customer_orders        model.
