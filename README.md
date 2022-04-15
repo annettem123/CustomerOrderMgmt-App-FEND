@@ -28,5 +28,9 @@ As a user, one would like to delete order so that user can cancel order effortle
 3. Testing
 4. Frontend and Testing
 5. Finish Up and ReadMe.Md
-   Challenges:  Debug "Failure to Start" error.
+   Challenges:  
+   Upon close review of requirements, only two models are needed, not three. Therefore, updated ERD and refactored customer model to customer_orders        model.
+   Debug "Failure to Start" error.
+   Uncertain if product model should include fields "Quantity" and "Total Price" or if SQL quiry generates them and adds count and total to forms. Since    these elements can be added to form through calculation, they are not being added to ERD.
+   Uncertain about decimal data structure for total price and product price; note:  in IntelliJ, use Float as the data structure 
 6 Presentation
