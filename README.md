@@ -51,6 +51,7 @@ Summary of 6 Steps to Completing API Project:
 
 
 
+
 1.  Planning
 
    App Name:  CustomerOrderMgmt-App
@@ -85,8 +86,11 @@ Model View Controller System Design (MVC):
 This project is being built using the MVC design, implementing a Model, View, and Controller class.  The main objective of this structure is “Separation of Concerns” allowing each layer of the application to communicate with other layers for data logic and data access and abstraction.  This project consists of:
 
 2 Model Classes
+
 4 different types of Forms for building and sending JSON body objects
+
 1 Service Class for business logic
+
 Controller has 5 endpoints
 
 2. Set Up and Backend
