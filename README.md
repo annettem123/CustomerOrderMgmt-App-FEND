@@ -124,5 +124,7 @@ Controller has 5 endpoints
    
    Uncertain how to complete 6 days of work into 1 hour.
    
+   com folder is incomplete.  It is com, but it should be com.customerorder.ordermgmtappbend.  To resoleve this, refactor.  Did not work. Create new Github project with new name Orders public with ReadMe.Md.
+   
    
 6 Presentation
